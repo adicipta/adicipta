@@ -2,7 +2,7 @@
 
 <samp>
   My Name is Adi.
-  <br>I'm a junior software engineer, able to use Golang with Echo framework, GORM, JWT, Docker, AWS EC2. Now learning about Javascript with NodeJS framework. Understand about versioning control with Github.
+  <br>I'm a junior software engineer, able to use Golang for Backend with Echo framework, GORM, JWT, Docker, AWS EC2. Now learning about Frontend use Javascript with ReactJS framework. Understand about versioning control with Github.
 </samp>
 
 <hr>
