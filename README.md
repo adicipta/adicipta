@@ -7,7 +7,7 @@
 
 <hr>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-cipta-pratama/)
+[![adiciptapratama](https://img.shields.io/badge/-adiciptapratama-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adi-cipta-pratama/)](https://www.linkedin.com/in/iswanulumam/)
 [![Instagram](https://img.shields.io/badge/-adiciptapratama-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/adiciptapratama/)](https://www.instagram.com/adiciptapratama/)
 [![GitHub](https://img.shields.io/badge/-adicipta-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/iswanulumam)](https://github.com/adicipta)
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=adicipta.visitor-badge)
