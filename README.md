@@ -8,6 +8,9 @@
 <hr>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-cipta-pratama/)
+[![Instagram](https://img.shields.io/badge/-adiciptapratama-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/adiciptapratama/)](https://www.instagram.com/adiciptapratama/)
+[![GitHub](https://img.shields.io/badge/-adicipta-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/iswanulumam)](https://github.com/adicipta)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=adicipta.visitor-badge)
 
 <!--
 **adicipta/adicipta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
