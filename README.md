@@ -2,7 +2,7 @@
 
 <samp>
   My Name is Adi.
-  <br>I'm a junior software engineer, able to use Golang with Echo framework, GORM, PHP with Laravel Framework, Eloquent, Wordpress with Elementor, Bootstrap, JWT Auth, OAuth, Docker, AWS EC2. Have experience build a website using PHP Native, CSS, Bootstrap, MySQL and also Wordpress with elementor. Understand about versioning control with Github.
+  <br>I'm a junior software engineer, able to use Golang with Echo framework, GORM, Wordpress with Elementor, Bootstrap, JWT Auth, OAuth, Docker, AWS EC2. Have experience build a website using PHP Native, CSS, Bootstrap, MySQL and also Wordpress with elementor. Understand about versioning control with Git.
 </samp>
 
 <hr>
