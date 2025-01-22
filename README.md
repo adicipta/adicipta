@@ -2,9 +2,9 @@
 
 <samp>
   My Name is Adi.
-  <br>I am a graduate from Pamulang University with a degree in Computer Science, specializing in Information Technology. Currently, I am thriving in the role of an Application Support Developer, where my primary responsibility revolves around troubleshooting bugs using PHP Laravel and C# .NET programming languages.
+  <br>I am a graduate from Pamulang University with a degree in Computer Science, specializing in Information Technology. Currently, I am thriving in the role of an L2 Application, where my primary responsibility revolves around troubleshooting bugs using PHP Laravel and C# .NET programming languages.
 
-  <br>In addition to my role as an Application Support Developer, I am also carving my path as a Junior Backend Engineer. I specialize in Golang programming language with Echo framework, GORM, MySQL, JWT and Git for versioning control. My passion lies in leveraging technology to solve complex problems and streamline processes.
+  <br>In addition to my role as an L2 Application, I am also carving my path as a Junior Backend Engineer. I specialize in Golang programming language with Echo framework, GORM, MySQL, JWT and Git for versioning control. My passion lies in leveraging technology to solve complex problems and streamline processes.
 </samp>
 
 <hr>
