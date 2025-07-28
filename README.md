@@ -2,7 +2,7 @@
 
 <samp>
   My Name is Adi.
-  <br>I graduated from Pamulang University with a degree in Computer Science, specializing in Information Technology. Currently, I am working as a Fullstack Developer, where I'm responsible for developing application systems from scratch using the Laravel framework.
+  <br>I graduated from Pamulang University with a degree in Computer Science, specializing in Information Technology. Currently, I am working as a Fullstack Developer, where I'm responsible for building application systems from scratch, ensuring scalability, implemented new modules and enhancements to improve system functionality performance.
 
   <br>In addition to my role as a Fullstack Developer, I am also deepening my expertise in DevOps, focusing on tools and practices such as Docker, CI/CD pipelines and Kubernetes to enhance deployment efficiency and system scalability.
 </samp>
