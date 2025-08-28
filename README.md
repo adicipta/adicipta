@@ -2,9 +2,9 @@
 
 <samp>
   My Name is Adi.
-  <br>I graduated from Pamulang University with a degree in Computer Science, specializing in Information Technology. Currently, I am working as a Fullstack Developer, where I'm responsible for building application systems from scratch, ensuring scalability, implemented new modules and enhancements to improve system functionality performance.
+  <br>Fullstack Developer with a strong foundation in Computer Science and a passion for building robust, scalable application systems. I specialize in end-to-end development, from designing architecture to implementing new modules and optimizing system performance. I also develop APIs to enable seamless integration with third-party applications, ensuring interoperability and efficient data exchange across systems.
 
-  <br>In addition to my role as a Fullstack Developer, I am also deepening my expertise in DevOps, focusing on tools and practices such as Docker, CI/CD pipelines and Kubernetes to enhance deployment efficiency and system scalability.
+  <br>Beyond fullstack development, I'm also expanding my skills in DevOps — diving deep into tools and practices like Docker, CI/CD pipelines, and Kubernetes to improve deployment workflows and system reliability.
 </samp>
 
 <hr>
