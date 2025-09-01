@@ -2,7 +2,7 @@
 
 <samp>
   My Name is Adi.
-  <br>Fullstack Developer at [PT Panasonic Industrial Components Indonesia](https://www.panasonic.com/id) with a strong foundation in Computer Science and a passion for building robust, scalable application systems. I specialize in end-to-end development, from designing architecture to implementing new modules and optimizing system performance. I also develop APIs to enable seamless integration with third-party applications, ensuring interoperability and efficient data exchange across systems.
+  <br>Fullstack Developer at <a href="https://www.panasonic.com/id">PT Panasonic Industrial Components Indonesia</a> with a strong foundation in Computer Science and a passion for building robust, scalable application systems. I specialize in end-to-end development, from designing architecture to implementing new modules and optimizing system performance. I also develop APIs to enable seamless integration with third-party applications, ensuring interoperability and efficient data exchange across systems.
 
   <br>Beyond fullstack development, I'm also expanding my skills in DevOps — diving deep into tools and practices like Docker, CI/CD pipelines, and Kubernetes to improve deployment workflows and system reliability.
 </samp>
