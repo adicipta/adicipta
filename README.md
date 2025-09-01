@@ -7,6 +7,8 @@
   <br>Beyond fullstack development, I'm also expanding my skills in DevOps — diving deep into tools and practices like Docker, CI/CD pipelines, and Kubernetes to improve deployment workflows and system reliability.
 </samp>
 
+<br>Currently working at [PT Panasonic Industrial Components Indonesia](https://www.panasonic.com/id).
+
 <hr>
 
 [![adiciptapratama](https://img.shields.io/badge/-adiciptapratama-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adi-cipta-pratama/)](https://www.linkedin.com/in/adi-cipta-pratama/)
